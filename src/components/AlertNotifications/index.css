@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg_container {
+  min-height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.card_Container {
+  width: 80%;
+}
+.main_heading {
+  text-align: center;
+  color: #0f172a;
+}
+.image {
+  margin-right: 15px;
+  width: 25px;
+  height: 25px;
+}
+.heading {
+  font-size: 21px;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+.para {
+  color: #475569;
+}
+.green {
+  color: #2dca73;
+}
+.red {
+  color: #ff0b37;
+}
+.yellow {
+  color: #ffb800;
+}
+.blue{
+  color: #0f81e0;
+}

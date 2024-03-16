@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.NotificationContainer {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #e5e5e5;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.Notification_card {
+  display: flex;
+}
+.closeIcon {
+  width: 25px;
+  height: 25px;
+  color: #64748b;
+}
